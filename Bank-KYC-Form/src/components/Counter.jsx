@@ -6,7 +6,7 @@ const Counter = () => {
 
   // 증가 함수
   const increment = () => {
-    setCount(prevCount => prevCount + 1);
+    setCount(prevCounts => prevCounts + 1);
   };
 
   // 감소 함수
