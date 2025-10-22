@@ -88,7 +88,7 @@ const Counter = () => {
       </div>
 
       <p style={{ marginTop: '15px', color: '#6c757d' }}>
-        버튼을 클릭해서 숫자를 변경해보세요!
+        버튼을 클릭해서 숫자를 변경해보세요!!!!
       </p>
     </div>
   );
